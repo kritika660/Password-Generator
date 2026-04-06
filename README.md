@@ -82,7 +82,7 @@ Password Strength : Strong ✔✔✔
 
 ---
 
-## 🔒 Password Strength Criteria
+## 🔒 Password Strength Criteria 
 
 | Strength | Criteria |
 |----------|----------|
