@@ -125,8 +125,8 @@ public class PasswordGenerator {
         if (digits) score++;
         if (symbols) score++;
 
-        if (score <= 3) return "Weak ⚠";
-        if (score <= 5) return "Medium ★★";
-        return "Strong ✔✔✔";
+        if (score <= 3) return "Weak ";
+        if (score <= 5) return "Medium ";
+        return "Strong ";
     }
 }
