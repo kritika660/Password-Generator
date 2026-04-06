@@ -15,16 +15,6 @@ public class PasswordGenerator {
 
     private final SecureRandom random = new SecureRandom();
 
-    /**
-     * Generates a random password based on the given options.
-     *
-     * @param length         desired password length (minimum 4 if all types enabled)
-     * @param useUppercase   include uppercase letters
-     * @param useLowercase   include lowercase letters
-     * @param useDigits      include digits
-     * @param useSymbols     include special symbols
-     * @return               the generated password
-     */
     public String generate(int length, boolean useUppercase, boolean useLowercase,
                            boolean useDigits, boolean useSymbols) {
 
