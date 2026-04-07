@@ -77,7 +77,7 @@ Include SYMBOLS (!@#...)?   (y/n): y
 --------------------------------------------
 Generated Password: kR#7mZ!vL2@xQp9&
 --------------------------------------------
-Password Strength : Strong ✔✔✔
+Password Strength : Strong 
 ```
 
 ---
@@ -86,9 +86,9 @@ Password Strength : Strong ✔✔✔
 
 | Strength | Criteria |
 |----------|----------|
-| ⚠ Weak   | Short length, few character types |
-| ★★ Medium | Moderate length, some variety |
-| ✔✔✔ Strong | 16+ characters, all types enabled |
+| Weak   | Short length, few character types |
+| Medium | Moderate length, some variety |
+| Strong | 16+ characters, all types enabled |
 
 ---
 
