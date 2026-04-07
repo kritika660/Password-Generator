@@ -112,7 +112,7 @@ public class PasswordGenerator {
             System.err.println("Error: " + e.getMessage());
         } finally {
             scanner.close();
-        }
+        } 
     }
 
     private static String evaluateStrength(int length, boolean upper, boolean lower, boolean digits, boolean symbols) {
