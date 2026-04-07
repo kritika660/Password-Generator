@@ -1,5 +1,3 @@
-package unit4;
-
 import java.security.SecureRandom;
 import java.util.ArrayList;
 import java.util.Collections;
